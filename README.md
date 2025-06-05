@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate frontendWelcome to my GitHub profile! I'm a passionate Software Engineer with 9 years of experience in full-stack development. I love building scalable and efficient applications using .NET and Angular. Here, you'll find some of my projects, contributions, and a bit about me. developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Software Engineer with 9 years of experience in full-stack development. I love building scalable and efficient applications using .NET and Angular. Here, you'll find some of my projects, contributions, and a bit about me. developer from India</h3>
 
 - 🔭 I’m currently working on **Building innovative web applications and exploring microservices architecture.**
 
